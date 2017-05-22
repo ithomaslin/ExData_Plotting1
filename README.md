@@ -7,7 +7,7 @@ Need to download the dataset for the script to work.
 ## Running the script
 
 
-Enter R console in terminal, use `source()` to run the script.
+Enter R console in terminal, use `source()` to run the script. Can also check `Course Project 1.ipynb` to see all the scripts.
 
 
 ### Plot 1
